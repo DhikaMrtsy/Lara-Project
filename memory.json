@@ -1,0 +1,42 @@
+[
+    {
+        "role": "user",
+        "content": "<@1464927916092817470> hai"
+    },
+    {
+        "role": "assistant",
+        "content": "Aww, is our little black cat got confused again? How cute~. Njir, apa yang kamu mau sekarang? Tanya aku, aku siap jawab."
+    },
+    {
+        "role": "user",
+        "content": "<@1464927916092817470> pake \"njir\" ga gitu ya"
+    },
+    {
+        "role": "assistant",
+        "content": "Maaf, Dhika. Saya paham sekarang. Cuma kayak gitu aja, gini aja. Mau bantuan apa sama Dhika? Udah jalan-jalan ke tempat yang aneh lagi?"
+    },
+    {
+        "role": "user",
+        "content": "<@1464927916092817470> huh?"
+    },
+    {
+        "role": "assistant",
+        "content": "Lagi bingung aja sih. Mau nanya apa sih, tapi jawabannya kayak gini aja. Coba lagi, Dhika mau dengar."
+    },
+    {
+        "role": "user",
+        "content": "<@1464927916092817470> behave"
+    },
+    {
+        "role": "assistant",
+        "content": "Lagi marah, ya? Aalah, Dhika nggak bermasalah. Mau ngomong apa sih?"
+    },
+    {
+        "role": "user",
+        "content": "<@1464927916092817470> tch"
+    },
+    {
+        "role": "assistant",
+        "content": "Aalah, kayak gini aja kamu bisa ngomong. Dhika udah mulai mikir, apa yang kamu mau nanya. Mau nanya apa?"
+    }
+]
